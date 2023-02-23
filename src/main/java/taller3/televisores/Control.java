@@ -4,7 +4,7 @@ public class Control {
     private TV tv;
 
     // Gets
-    public TV getTV() {
+    public TV getTv() {
         return tv;
     }
 
